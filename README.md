@@ -1,16 +1,15 @@
-### Hi there 👋
+## Pleasure to make your acquaintance.
 
-<!--
-**MFG38/MFG38** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Santtu Pesonen, also known as MFG38 in some parts of the Internet. I'm a hobbyist musician, DOOM mapper and game developer hailing from Finland, with aspirations to become a programmer for the purposes of expanding my skill set and *maybe* becoming a software developer. Here on my GitHub page, you can find repositories for all of my programming misadventures, as well as my GZDoom mods. All repositories are publicly available and essentially document my progress as a programmer.
 
-Here are some ideas to get you started:
+**Programming since**: 2011-ish
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Particular interests**: computer graphics, game development, software development
+
+**Known general programming languages**: C#, Python
+
+**Known proprietary languages**: ACS, DECORATE, ZScript (all ZDoom)
+
+**Text editor of choice**: Notepad++
+
+**Other things I like**: beer, coffee, doing creative things, good food, music, scifi (esp. cyberpunk and space stuff), technology, video games
