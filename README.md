@@ -6,9 +6,7 @@ I'm Santtu Pesonen, also known as MFG38 in some parts of the Internet. I'm a hob
 
 **Particular interests**: computer graphics, game development, software development
 
-**Known general programming languages**: C#, CSS, HTML, Python
-
-**Known proprietary languages**: ACS, DECORATE, ZScript (all ZDoom)
+**Known programming languages**: C#, CSS, HTML, Python
 
 **Text editor of choice**: Notepad++
 
