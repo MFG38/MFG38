@@ -8,6 +8,6 @@ I'm Santtu Pesonen, also known as MFG38 in some parts of the Internet. I'm a hob
 
 **Known programming languages**: C#, CSS, HTML, JavaScript, Python
 
-**Text editor of choice**: Notepad++
+**Text editor of choice**: Nano, VSCodium
 
 **Other things I like**: beer, coffee, doing creative things, good food, music, scifi (esp. cyberpunk and space stuff), technology, video games
