@@ -4,7 +4,7 @@ I'm Santtu Pesonen, also known as MFG38 in some parts of the Internet. I'm a hob
 
 **Programming since**: Either 2009-ish or 2019 depending on whether working with game-specific scripting languages counts
 
-**Particular interests**: Computer graphics, game development, software development
+**Particular interests**: Computer graphics (esp. software rendering), game development, software development
 
 **Known programming languages**: Bash, Batch, C, C#, CSS, HTML, Python
 
