@@ -8,7 +8,7 @@ I'm Santtu Pesonen, also known as MFG38 in some parts of the Internet. I'm a hob
 
 **Known programming languages**: Bash, Batch, C, C#, CSS, HTML, Python
 
-**Text editor of choice**: Neovim, VSCodium
+**Text editor of choice**: Neovim
 
 **Other things I like**: Beer, coffee, doing creative things, good food, music, scifi (esp. cyberpunk and space stuff), technology, video games
 
