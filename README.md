@@ -17,3 +17,4 @@ I'm Santtu Pesonen, also known as MFG38 in some parts of the Internet. I'm a hob
 * Main developer of [Colette](https://github.com/MFG38/colette), a CLI-based todo list manager.
 * Improved the Finnish translation of [OldTwitter](https://github.com/dimdenGD/OldTwitter).
 * Contributed a minor syntax highlighting fix to [xmake documentation](https://github.com/xmake-io/xmake-docs).
+* Provided minor grammar corrections in CONTRIBUTING.md of [UZDoom](https://github.com/UZDoom/UZDoom).
